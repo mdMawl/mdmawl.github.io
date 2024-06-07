@@ -1,0 +1,46 @@
+
+body{
+    background-color: #FFF9D0;
+}
+
+nav{
+    background-color: #A0DEFF;
+}
+
+.jumbotron{
+    background-color: #CAF4FF;
+
+    margin-top: -24px;
+}
+
+
+.card {
+    margin: 0px auto    ;
+}
+
+.containerproject{
+    background-color: #CAF4FF;
+}
+
+.bawah{
+    margin-top: 60px;
+}
+
+.bawah img{
+    height: 200px;
+}
+
+
+
+.btn{
+    background-color: #5AB2FF;
+}
+
+footer{
+    background-color: #A0DEFF;
+}
+
+section{
+    padding-top: 5rem;
+}
+
